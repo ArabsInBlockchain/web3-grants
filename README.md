@@ -39,7 +39,7 @@ You can check them as well via [google sheet](https://docs.google.com/spreadshee
 | MINA| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+)https://docs.google.com/forms/d/e/1FAIpQLScTZfddpuVj8R0psE27fMRTTHRFVIsdCvPYsqwrCGXsdflkDw/viewform	| |   |   |
 | Oasis Protocol| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://oasisprotocol.org/ecosystem-grants| |   |   https://oasisfoundation.typeform.com/to/HtYql2aN?typeform-source=oasisprotocol.org|
 | GitCoin| ![#FFFF00](https://via.placeholder.com/10/FFFF00?text=+) https://gitcoin.co/grants/| community dev |   |   |
-| consenSys | ![#FF0000](https://via.placeholder.com/10/FF0000?text=+) 	https://consensys.net/grants/	 |    |   |  |
+| ConsenSys | ![#FF0000](https://via.placeholder.com/10/FF0000?text=+) 	https://consensys.net/grants/	 |    |   |  |
 | heco | ![#FF0000](https://via.placeholder.com/10/FF0000?text=+) 	https://hackerlink.io/grant/heco/	 |    |   |  |
 | Avalanche | ![#FF0000](https://via.placeholder.com/10/FF0000?text=+) 	 	 |    |   |  |
 | Grant for the Web (Heperledger) | ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) 	 	https://www.grantfortheweb.org/		 |    |   |  |
