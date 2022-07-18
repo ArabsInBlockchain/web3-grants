@@ -17,7 +17,7 @@ You can check them as well via [google sheet](https://docs.google.com/spreadshee
 | ----------------- | ------------------------------------------------------------------ | ------------------|------------------------|------------------|
 | NEAR| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://near.org/grants/| |   |   |
 | FileCoin| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://grants.filecoin.io/	| |   |   |
-| chainlink| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://chain.link/community/grants	| |   |   |
+| Chainlink| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://chain.link/community/grants	| |   |   |
 | Ocean Protocol| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://oceanprotocol.com/dao	| |   |   |
 | Solana| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://solana.foundation/grants| |   |   |
 | web3 grants [polkaDot]| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://github.com/w3f/Grants-Program/| |   |  https://web3.foundation/grants/	 |
@@ -39,10 +39,19 @@ You can check them as well via [google sheet](https://docs.google.com/spreadshee
 | Oasis Protocol| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://oasisprotocol.org/ecosystem-grants| |   |   https://oasisfoundation.typeform.com/to/HtYql2aN?typeform-source=oasisprotocol.org|
 | GitCoin| ![#FFFF00](https://via.placeholder.com/10/FFFF00?text=+) https://gitcoin.co/grants/| community dev |   |   |
 | ConsenSys | ![#FF0000](https://via.placeholder.com/10/FF0000?text=+) 	https://consensys.net/grants/	 |    |   |  |
-| heco | ![#FF0000](https://via.placeholder.com/10/FF0000?text=+) 	https://hackerlink.io/grant/heco/	 |    |   |  |
+| Heco | ![#FF0000](https://via.placeholder.com/10/FF0000?text=+) 	https://hackerlink.io/grant/heco/	 |    |   |  |
 | Avalanche | ![#FF0000](https://via.placeholder.com/10/FF0000?text=+) 	 	 |    |   |  |
 | Grant for the Web (Heperledger) | ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) 	 	https://www.grantfortheweb.org/		 |    |   |  |
 | Alchemy | ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) 	 	https://www.alchemy.com/developer-grant-program		 |    |   |  |
+| Aave | ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) 	 	https://aavegrants.org/		 |    |   |  |
+| Balancer | ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) 	 	https://docs.google.com/forms/d/e/1FAIpQLSdZlzvWPQxR4on3Rae0ySyWeCf2WzJWAmcPtGBBWKYoQ1im3g/viewform?usp=send_form		 |    |   |  |
+| Compounds | ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) 	 	https://compoundgrants.org/		 |    |   |  |
+| DYDX | ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) 	 	https://dydxgrants.com/		 |    |   |  |
+| Lido | ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) 	 	https://lego.lido.fi/		 |    |   |  |
+| MStable | ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) 	 	https://docs.mstable.org/advanced/grants-program		 |    |   |  |
+| The Graph | ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) 	 	https://airtable.com/shrdfvnFvVch3IOVm		 |    |   |  |
+| Uniswap | ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) 	 	https://www.unigrants.org/		 |    |   |  |
+
 | List of grants | https://web3grants.org/	 	 	 |    |   |  |
 
 ## Authors
