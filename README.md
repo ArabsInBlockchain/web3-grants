@@ -1,5 +1,5 @@
 
-# web3 Grants list
+# Web3 Grants list
 
 A list for all grants in web3 domain. These grants are in different categories e.g community, development, content, etc.
 You can check them as well via [google sheet](https://docs.google.com/spreadsheets/d/1GL87k2zfW6HKiqtGHmq2t6Dsy1Q4X1_HzKH8p0fI58Y/edit?usp=sharing) 
@@ -24,7 +24,6 @@ You can check them as well via [google sheet](https://docs.google.com/spreadshee
 | Cosoms| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://interchain.io/funding/	| |   |   |
 | Harmony| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) 	https://docs.harmony.one/home/general/ecosystem/grants| |   |   |
 | Fantom| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://fantom.foundation/blog/fantom-incentive-program-how-to-apply/| DeFi|   |   |
-| terra| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://www.terra.money/grants	| |   |   |
 | Devcon [Ethereum Foundation]| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://ethereum.org/en/community/grants/| |   |   |
 | Polygon| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://tally.so/r/wgLADn| |   | https://www.polygongrantshackathon.com/	  |
 | Stellar| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://www.stellar.org/foundation/grants-and-funding| |   |   |
@@ -57,4 +56,3 @@ You can check them as well via [google sheet](https://docs.google.com/spreadshee
 - https://hackerlink.io/grant
 - https://open.harmony.one/300m-on-bounties-grants-daos/reference-grants-of-other-base-protocols
 - https://web3grants.org/
-
