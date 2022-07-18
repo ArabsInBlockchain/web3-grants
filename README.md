@@ -51,7 +51,6 @@ You can check them as well via [google sheet](https://docs.google.com/spreadshee
 | MStable | ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) 	 	https://docs.mstable.org/advanced/grants-program		 |    |   |  |
 | The Graph | ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) 	 	https://airtable.com/shrdfvnFvVch3IOVm		 |    |   |  |
 | Uniswap | ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) 	 	https://www.unigrants.org/		 |    |   |  |
-
 | List of grants | https://web3grants.org/	 	 	 |    |   |  |
 
 ## Authors
