@@ -22,7 +22,7 @@ You can check them as well via [google sheet](https://docs.google.com/spreadshee
 | Solana| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://solana.foundation/grants| |   |   |
 | web3 grants [polkaDot]| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://github.com/w3f/Grants-Program/| |   |  https://web3.foundation/grants/	 |
 | Cosoms| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://interchain.io/funding/	| |   |   |
-| Harmony| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) 	https://www.harmony.one/grants| |   |   |
+| Harmony| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) 	https://docs.harmony.one/home/general/ecosystem/grants| |   |   |
 | Fantom| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://fantom.foundation/blog/fantom-incentive-program-how-to-apply/| DeFi|   |   |
 | terra| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://www.terra.money/grants	| |   |   |
 | Devcon [Ethereum Foundation]| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://ethereum.org/en/community/grants/| |   |   |
@@ -43,11 +43,13 @@ You can check them as well via [google sheet](https://docs.google.com/spreadshee
 | heco | ![#FF0000](https://via.placeholder.com/10/FF0000?text=+) 	https://hackerlink.io/grant/heco/	 |    |   |  |
 | Avalanche | ![#FF0000](https://via.placeholder.com/10/FF0000?text=+) 	 	 |    |   |  |
 | Grant for the Web (Heperledger) | ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) 	 	https://www.grantfortheweb.org/		 |    |   |  |
+| Alchemy | ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) 	 	https://www.alchemy.com/developer-grant-program		 |    |   |  |
 | List of grants | https://web3grants.org/	 	 	 |    |   |  |
 
 ## Authors
 
 - [@emanHerawy](https://www.github.com/emanherawy)
+- [@andreolf](https://www.github.com/andreolf)
 
 
 ## Appendix
