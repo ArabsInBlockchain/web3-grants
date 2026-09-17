@@ -52,6 +52,7 @@ You can check them as well via [google sheet](https://docs.google.com/spreadshee
 | The Graph | ![#ABEA7C](https://via.placeholder.com/15/ABEA7C/ABEA7C.png) 	 	https://airtable.com/shrdfvnFvVch3IOVm		 |    |   |  |
 | Uniswap | ![#ABEA7C](https://via.placeholder.com/15/ABEA7C/ABEA7C.png) 	 	https://www.unigrants.org/		 |    |   |  |
 | List of grants | https://web3grants.org/	 	 	 |    |   |  |
+| ZK Prime Capital| ![#ABEA7C](https://via.placeholder.com/15/ABEA7C/ABEA7C.png) https://zkprime-capital.xyz/grants/	|AI / DeFAI / ZK infrastructure |$5K-$75K per team, non-dilutive (no equity/tokens taken), grant program of a full-cycle VC fund |   |
 
 ## Authors
 
