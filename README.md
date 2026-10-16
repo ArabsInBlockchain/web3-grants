@@ -16,6 +16,7 @@ You can check them as well via [google sheet](https://docs.google.com/spreadshee
 | Grant Provider             | link                                                                |  category       |commnet            | extra links       |
 | ----------------- | ------------------------------------------------------------------ | ------------------|------------------------|------------------|
 | NEAR| ![#ABEA7C](https://via.placeholder.com/15/ABEA7C/ABEA7C.png) https://near.org/grants/| |   |   |
+| Beldex| ![#ABEA7C](https://via.placeholder.com/15/ABEA7C/ABEA7C.png) https://beldex.io/grants| |   |   |
 | FileCoin| ![#ABEA7C](https://via.placeholder.com/15/ABEA7C/ABEA7C.png) https://grants.filecoin.io/	| |   |   |
 | Chainlink| ![#ABEA7C](https://via.placeholder.com/15/ABEA7C/ABEA7C.png) https://chain.link/community/grants	| |   |   |
 | Ocean Protocol| ![#ABEA7C](https://via.placeholder.com/15/ABEA7C/ABEA7C.png) https://oceanprotocol.com/dao	| |   |   |
